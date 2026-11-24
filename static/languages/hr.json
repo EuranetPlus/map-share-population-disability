@@ -1,13 +1,12 @@
 {
-  "title": "Koje zemlje EU-a nude najbolje izglede za zapošljavanje?",
-  "subtitle": "Budući rast zaposlenosti u tim zemljama u razdoblju 2022. – 2035. procjenjuje se na 5,6%.",
+  "title": "Koliki je udio ljudi s invaliditetom u EU?",
+  "subtitle": "U 2025. godini, 24,2% osoba u dobi od 16 i više godina u EU prijavilo je invaliditet. Latvija je imala najveći udio s 35,9%. Malta je imala najmanji udio s 11,0%.",
   "textNoteDescription": "Bilješka",
-  "textNote": "sdchdc",
+  "textNote": "Osobe u dobi od 16 i više godina koje žive u privatnim kućanstvima bile su upitane ograničava li im zdravstveni problem uobičajene aktivnosti tijekom najmanje šest mjeseci. Brojke uključuju osobe koje prijavljuju određena ili teška ograničenja. Za Luksemburg nema dostupnih podataka za 2025. godinu.",
   "textSourceDescription": "Izvor",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pristupite podacima",
-  "extraInfo_DE": "Njemačka ubrzava uvođenje obnovljive energije, cilj je 80% čiste energije do 2030.",
-  "extraInfo_FR": "Francuski parlament odobrio veliki nacrt zakona o useljeničkoj reformi usred prosvjeda diljem zemlje",
+  "textSource": "Eurostat (2026.)",
+  "linkDataAccessDescription": "Pristup podacima",
   "legend1": "Nema dostupnih podataka",
+  "customUnitLabel": "Osobe u dobi od 16 i više godina koje prijavljuju invaliditet",
   "tooltipExtraInfoLabel": "Kliknite ovdje"
 }
