@@ -1,13 +1,12 @@
 {
-  "title": "Které země EU nabízejí nejlepší vyhlídky na zaměstnání?",
-  "subtitle": "Budoucí růst zaměstnanosti v těchto zemích v letech 2022-2035 se odhaduje na 5,6 %.",
+  "title": "Jaký podíl lidí v EU žije se zdravotním postižením?",
+  "subtitle": "V roce 2025 uvedlo v EU 24,2 % osob ve věku 16 let a starších zdravotní postižení. Nejvyšší podíl mělo Lotyšsko s 35,9 %. Nejnižší podíl měla Malta s 11,0 %.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Lidé ve věku 16 let a starší žijící v soukromých domácnostech byli dotázáni, zda zdravotní problém omezuje jejich obvyklé činnosti po dobu alespoň šesti měsíců. Údaje zahrnují osoby, které uvádějí buď určitá, nebo závažná omezení. Údaje za Lucembursko za rok 2025 nejsou k dispozici.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Přístup k datům",
-  "extraInfo_DE": "Německo urychluje zavádění obnovitelné energie a do roku 2030 si klade za cíl 80 % čisté energie",
-  "extraInfo_FR": "Francouzský parlament schválil návrh zákona o velké imigrační reformě uprostřed celonárodních protestů",
-  "legend1": "Nejsou k dispozici žádné údaje",
+  "legend1": "Nejsou k dispozici žádná data",
+  "customUnitLabel": "Osoby ve věku 16 let a starší hlásící zdravotní postižení",
   "tooltipExtraInfoLabel": "Klikněte zde"
 }
