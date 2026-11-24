@@ -1,13 +1,22 @@
-import adapter from '@sveltejs/adapter-vercel';
+import { createHash } from 'node:crypto';
+import { readFile, writeFile } from 'node:fs/promises';
 
-/** @type {import('@sveltejs/kit').Config} */
-const config = {
+export default {
 	kit: {
-		// adapter-auto only supports some environments, see https://svelte.dev/docs/kit/adapter-auto for a list.
-		// If your environment is not supported, or you settled on a specific environment, switch out the adapter.
-		// See https://svelte.dev/docs/kit/adapters for more information about adapters.
-		adapter: adapter()
+		adapter: {
+			name: 'netlify-static-map',
+			async adapt(builder) {
+				builder.rimraf('build');
+				builder.writeClient('build');
+				await builder.generateFallback('build/index.html');
+				const html = await readFile('build/index.html', 'utf8');
+				await writeFile('build/index.html', html.replace('</head>', '<style>iframe#nl-badge-frame { display: none !important; }</style></head>'));
+				const hashes = [...html.matchAll(/<script(?:\s[^>]*)?>([\s\S]*?)<\/script>/gi)]
+					.filter(([, source]) => source.trim())
+					.map(([, source]) => "'sha256-" + createHash('sha256')
+						.update(source.replace(/\r\n?/g, '\n')).digest('base64') + "'");
+				await writeFile('build/_headers', "/*\n  Content-Security-Policy: script-src 'self' " + hashes.join(' ') + "\n");
+			}
+		}
 	}
 };
-
-export default config;

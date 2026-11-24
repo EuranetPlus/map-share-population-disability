@@ -1,0 +1,5 @@
+[build]
+  command = "api_backup=$(mktemp -d) && trap 'if [ -d \"$api_backup/api\" ]; then mv \"$api_backup/api\" src/routes/api; fi; rmdir \"$api_backup\"' EXIT && mv src/routes/api \"$api_backup/api\" && npm run build"
+  publish = "build"
+[build.environment]
+  NODE_VERSION = "24"
