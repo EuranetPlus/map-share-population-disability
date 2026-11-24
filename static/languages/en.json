@@ -1,13 +1,12 @@
 {
-  "title": "Which EU countries offer the best employment prospects?",
-  "subtitle": "Future employment growth in these countries in 2022-2035 is estimated at 5.6%.",
+  "title": "What share of people in the EU live with a disability?",
+  "subtitle": "In 2025, 24.2% of people aged 16 and over in the EU reported a disability. Latvia had the highest share at 35.9%. Malta had the lowest share at 11.0%",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "People aged 16 and over living in private households were asked whether a health problem has limited their usual activities for at least six months. The figures include people who report either some or severe limitations. No 2025 figure is available for Luxembourg.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Access the data",
-  "extraInfo_DE": "Germany Accelerates Renewable Energy Rollout, Targets 80% Clean Power by 2030",
-  "extraInfo_FR": "French Parliament Approves Major Immigration Reform Bill Amid Nationwide Protests",
   "legend1": "No data available",
+  "customUnitLabel": "People aged 16 and over reporting a disability",
   "tooltipExtraInfoLabel": "Click here"
 }
