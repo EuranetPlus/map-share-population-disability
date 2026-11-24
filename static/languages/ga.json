@@ -1,13 +1,12 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "Cén sciar de dhaoine san AE atá faoi mhíchumas?",
+  "subtitle": "Sa bhliain 2025, thuairiscigh 24.2% de dhaoine 16 bliana d’aois agus os a chionn san AE go raibh siad faoi mhíchumas. Bhí an sciar is airde ag an Laitvia ag 35.9%. Bhí an sciar is ísle ag Málta ag 11.0%.",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
+  "textNote": "Fiafraíodh de dhaoine 16 bliana d’aois agus os a chionn atá ina gcónaí i dteaghlaigh phríobháideacha an raibh fadhb sláinte ag cur srian ar a ngníomhaíochtaí gnáth ar feadh sé mhí ar a laghad. Áirítear sna figiúirí daoine a thuairiscigh srianta áirithe nó srianta tromchúiseacha. Níl aon fhigiúr 2025 ar fáil do Lucsamburg.",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
   "legend1": "Níl aon sonraí ar fáil",
+  "customUnitLabel": "Daoine 16 bliana d'aois agus os a chionn a thuairiscíonn míchumas",
   "tooltipExtraInfoLabel": "Cliceáil anseo"
 }
