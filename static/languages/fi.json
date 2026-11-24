@@ -1,13 +1,12 @@
 {
-  "title": "Mitkä EU-maat tarjoavat parhaat työllisyysnäkymät?",
-  "subtitle": "Näissä maissa tulevaisuudessa työllisyyden kasvun arvioidaan olevan 5,6 % vuosina 2022-2035.",
-  "textNoteDescription": "Huom",
-  "textNote": "sdchdc",
+  "title": "Kuinka suuri osa EU:n väestöstä elää vammaisena?",
+  "subtitle": "Vuonna 2025 EU:ssa 24,2 % 16 vuotta täyttäneistä ilmoitti vammaisuudesta. Latviassa osuus oli suurin, 35,9 %. Maltalla osuus oli pienin, 11,0 %.",
+  "textNoteDescription": "Huomautus",
+  "textNote": "Yksityisissä kotitalouksissa asuvilta 16 vuotta täyttäneiltä kysyttiin, onko terveysongelma rajoittanut heidän tavanomaisia toimintojaan vähintään kuuden kuukauden ajan. Luvut sisältävät ihmiset, jotka ilmoittavat joko jonkin verran tai vakavia rajoituksia. Luxemburgista ei ole saatavilla vuoden 2025 lukua.",
   "textSourceDescription": "Lähde",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Käytä tietoja",
-  "extraInfo_DE": "Saksa nopeuttaa uusiutuvan energian käyttöönottoa ja tavoittelee 80 % puhdasta sähköä vuoteen 2030 mennessä",
-  "extraInfo_FR": "Ranskan parlamentti hyväksyi suuren maahanmuuttouudistuksen valtakunnallisten mielenosoitusten keskellä",
-  "legend1": "Tietoja ei ole saatavilla",
+  "legend1": "Ei tietoja saatavilla",
+  "customUnitLabel": "16-vuotiaat ja sitä vanhemmat ilmoittavat vammaisuudestaan",
   "tooltipExtraInfoLabel": "Klikkaa tästä"
 }
