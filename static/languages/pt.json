@@ -1,13 +1,12 @@
 {
-  "title": "Quais países da UE oferecem as melhores perspectivas de emprego?",
-  "subtitle": "O crescimento futuro do emprego nesses países entre 2022 e 2035 é estimado em 5,6%.",
+  "title": "Qual a percentagem de pessoas na UE que vivem com alguma deficiência?",
+  "subtitle": "Em 2025, 24,2% das pessoas com 16 anos ou mais na UE declararam ter alguma deficiência. A Letônia apresentou a maior percentagem, com 35,9%. Malta apresentou a menor percentagem, com 11,0%.",
   "textNoteDescription": "Observação",
-  "textNote": "SDCHDC",
+  "textNote": "Pessoas com 16 anos ou mais, residentes em domicílios particulares, foram questionadas sobre se algum problema de saúde limitou suas atividades habituais por pelo menos seis meses. Os dados incluem pessoas que relataram limitações leves ou graves. Não há dados disponíveis para Luxemburgo em 2025.",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Acesse os dados",
-  "extraInfo_DE": "Alemanha acelera implementação de energia renovável e tem como meta 80% de energia limpa até 2030",
-  "extraInfo_FR": "Parlamento francês aprova importante projeto de lei de reforma da imigração em meio a protestos em todo o país",
-  "legend1": "Não há dados disponíveis",
+  "legend1": "Não há dados disponíveis.",
+  "customUnitLabel": "Pessoas com 16 anos ou mais que relataram ter uma deficiência.",
   "tooltipExtraInfoLabel": "Clique aqui"
 }
