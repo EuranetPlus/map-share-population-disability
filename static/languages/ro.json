@@ -1,13 +1,12 @@
 {
-  "title": "Care țări UE oferă cele mai bune perspective de angajare?",
-  "subtitle": "Creșterea viitoare a ocupării forței de muncă în aceste țări în perioada 2022-2035 este estimată la 5,6%.",
+  "title": "Ce procent dintre persoanele din UE trăiesc cu o dizabilitate?",
+  "subtitle": "În 2025, 24,2% dintre persoanele cu vârsta de 16 ani și peste din UE au raportat o dizabilitate. Letonia a avut cea mai mare pondere, de 35,9%. Malta a avut cea mai mică pondere, de 11,0%.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Persoanele cu vârsta de 16 ani și peste care locuiesc în gospodării private au fost întrebate dacă o problemă de sănătate le-a limitat activitățile obișnuite timp de cel puțin șase luni. Cifrele includ persoanele care raportează fie anumite limitări, fie limitări severe. Nu există cifre disponibile pentru Luxemburg pentru anul 2025.",
   "textSourceDescription": "Sursă",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Accesați datele",
-  "extraInfo_DE": "Germania accelerează lansarea energiei regenerabile, țintește 80% energie curată până în 2030",
-  "extraInfo_FR": "Parlamentul francez aprobă un proiect de lege major de reformă a imigrației pe fondul protestelor la nivel național",
-  "legend1": "Nu există date disponibile",
+  "legend1": "Nu sunt disponibile date",
+  "customUnitLabel": "Persoane cu vârsta de 16 ani și peste care raportează o dizabilitate",
   "tooltipExtraInfoLabel": "Click aici"
 }
