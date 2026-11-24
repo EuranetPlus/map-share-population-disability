@@ -1,13 +1,12 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Jaki odsetek osób w UE żyje z niepełnosprawnością?",
+  "subtitle": "W 2025 roku 24,2% osób w wieku 16 lat i starszych w UE zgłosiło niepełnosprawność. Najwyższy odsetek odnotowano na Łotwie – 35,9%. Najniższy – 11,0% – na Malcie.",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "Osoby w wieku 16 lat i starsze mieszkające w gospodarstwach domowych zostały zapytane, czy problem zdrowotny ograniczał ich codzienne aktywności przez co najmniej sześć miesięcy. Dane obejmują osoby, które zgłaszają pewne lub poważne ograniczenia. Dane za rok 2025 nie są dostępne dla Luksemburga.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Dostęp do danych",
   "legend1": "Brak dostępnych danych",
+  "customUnitLabel": "Osoby w wieku 16 lat i starsze zgłaszające niepełnosprawność",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }
