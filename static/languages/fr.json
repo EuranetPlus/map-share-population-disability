@@ -1,13 +1,12 @@
 {
-  "title": "Quels pays de l’UE offrent les meilleures perspectives d’emploi ?",
-  "subtitle": "La croissance future de l’emploi dans ces pays en 2022-2035 est estimée à 5,6 %.",
+  "title": "Quel est le pourcentage de personnes handicapées dans l'UE ?",
+  "subtitle": "En 2025, 24,2 % des personnes âgées de 16 ans et plus dans l'UE ont déclaré être en situation de handicap. La Lettonie affichait le taux le plus élevé (35,9 %), tandis que Malte présentait le taux le plus faible (11,0 %).",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Les personnes âgées de 16 ans et plus vivant dans des ménages privés ont été interrogées sur la limitation de leurs activités habituelles pendant au moins six mois en raison d'un problème de santé. Les chiffres incluent les personnes déclarant des limitations, qu'elles soient légères ou importantes. Aucune donnée n'est disponible pour le Luxembourg en 2025.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_DE": "L'Allemagne accélère le déploiement des énergies renouvelables et vise 80 % d'énergie propre d'ici 2030",
-  "extraInfo_FR": "Le Parlement français approuve un important projet de loi sur la réforme de l'immigration au milieu de manifestations à l'échelle nationale",
   "legend1": "Aucune donnée disponible",
+  "customUnitLabel": "Les personnes âgées de 16 ans et plus déclarant un handicap",
   "tooltipExtraInfoLabel": "Cliquez ici"
 }
