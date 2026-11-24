@@ -1,13 +1,12 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Welk percentage van de mensen in de EU leeft met een beperking?",
+  "subtitle": "In 2025 gaf 24,2% van de mensen van 16 jaar en ouder in de EU aan een beperking te hebben. Letland had het hoogste percentage met 35,9%. Malta had het laagste percentage met 11,0%.",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
+  "textNote": "Aan personen van 16 jaar en ouder die in een particulier huishouden wonen, werd gevraagd of een gezondheidsprobleem hun gebruikelijke activiteiten gedurende ten minste zes maanden heeft beperkt. De cijfers omvatten personen die aangeven enige of ernstige beperkingen te ondervinden. Er zijn geen cijfers voor 2025 beschikbaar voor Luxemburg.",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
   "legend1": "Geen gegevens beschikbaar",
+  "customUnitLabel": "Personen van 16 jaar en ouder die een beperking melden",
   "tooltipExtraInfoLabel": "Klik hier"
 }
