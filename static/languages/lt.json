@@ -1,13 +1,12 @@
 {
-  "title": "Kurios ES šalys siūlo geriausias įsidarbinimo perspektyvas?",
-  "subtitle": "Skaičiuojama, kad būsimas užimtumo augimas šiose šalyse 2022–2035 m. sieks 5,6 proc.",
+  "title": "Kokia dalis žmonių ES gyvena su negalia?",
+  "subtitle": "2025 m. 24,2 % 16 metų ir vyresnių asmenų ES nurodė negalią. Latvijoje ši dalis buvo didžiausia – 35,9 %. Maltoje ši dalis buvo mažiausia – 11,0 %.",
   "textNoteDescription": "Pastaba",
-  "textNote": "sdchdc",
+  "textNote": "16 metų ir vyresnių asmenų, gyvenančių privačiuose namų ūkiuose, buvo klausiama, ar sveikatos problema bent šešis mėnesius apribojo jų įprastą veiklą. Į šiuos skaičius įtraukti žmonės, kurie praneša apie tam tikrus arba didelius apribojimus. 2025 m. Liuksemburgo duomenų nėra.",
   "textSourceDescription": "Šaltinis",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pasiekite duomenis",
-  "extraInfo_DE": "Vokietija paspartina atsinaujinančios energijos diegimą ir siekia 80 % švarios energijos iki 2030 m.",
-  "extraInfo_FR": "Prancūzijos parlamentas, kilus protestams visoje šalyje, patvirtino pagrindinį imigracijos reformos įstatymo projektą",
+  "textSource": "Eurostatas (2026 m.)",
+  "linkDataAccessDescription": "Prieiga prie duomenų",
   "legend1": "Nėra duomenų",
-  "tooltipExtraInfoLabel": "Spauskite čia"
+  "customUnitLabel": "16 metų ir vyresni asmenys, pranešantys apie negalią",
+  "tooltipExtraInfoLabel": "Spustelėkite čia"
 }
