@@ -1,13 +1,12 @@
 {
-  "title": "Hvilke EU-lande har de bedste beskæftigelsesmuligheder?",
-  "subtitle": "Fremtidig vækst i beskæftigelsen i disse lande i 2022-2035 anslås til 5,6 %.",
+  "title": "Hvor stor en andel af befolkningen i EU lever med et handicap?",
+  "subtitle": "I 2025 rapporterede 24,2 % af personer på 16 år og derover i EU et handicap. Letland havde den højeste andel med 35,9 %. Malta havde den laveste andel med 11,0 %.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Personer på 16 år og derover, der bor i private husholdninger, blev spurgt, om et helbredsproblem har begrænset deres sædvanlige aktiviteter i mindst seks måneder. Tallene inkluderer personer, der rapporterer enten nogle eller alvorlige begrænsninger. Der findes ikke et tal for 2025 for Luxembourg.",
   "textSourceDescription": "Kilde",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få adgang til data",
-  "extraInfo_DE": "Tyskland fremskynder udrulningen af vedvarende energi, sigter mod 80 % ren strøm inden 2030",
-  "extraInfo_FR": "Det franske parlament godkender lovforslaget om større immigrationsreformer under landsdækkende protester",
-  "legend1": "Ingen tilgængelige data",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Få adgang til dataene",
+  "legend1": "Ingen data tilgængelige",
+  "customUnitLabel": "Personer på 16 år og derover, der anmelder et handicap",
   "tooltipExtraInfoLabel": "Klik her"
 }
