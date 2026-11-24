@@ -1,13 +1,12 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Hur stor andel människor i EU lever med en funktionsnedsättning?",
+  "subtitle": "År 2025 uppgav 24,2 % av personerna i åldern 16 år och äldre i EU att de hade en funktionsnedsättning. Lettland hade den högsta andelen med 35,9 %. Malta hade den lägsta andelen med 11,0 %.",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "Personer i åldern 16 år och äldre som bor i privata hushåll tillfrågades om ett hälsoproblem har begränsat deras vanliga aktiviteter i minst sex månader. Siffrorna inkluderar personer som rapporterar antingen vissa eller allvarliga begränsningar. Ingen siffra för 2025 finns tillgänglig för Luxemburg.",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Åtkomst till data",
   "legend1": "Inga data tillgängliga",
+  "customUnitLabel": "Personer 16 år och äldre som anmäler en funktionsnedsättning",
   "tooltipExtraInfoLabel": "Klicka här"
 }
